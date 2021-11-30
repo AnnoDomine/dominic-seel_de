@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target":"es6",
+      "moduleResolution":"node",
+      "module":"commonjs",
+      "declaration":false,
+      "noLib":false,
+      "emitDecoratorMetadata":true,
+      "experimentalDecorators":true,
+      "sourceMap":true,
+      "pretty":true,
+      "allowUnreachableCode":true,
+      "allowUnusedLabels":true,
+      "noImplicitAny":true,
+      "noImplicitReturns":false,
+      "noImplicitUseStrict":false,
+      "outDir":"buidee",
+      "baseUrl":"",
+      "listFiles":false,
+      "noEmitHelpers":true                               
+  },
+  "include":[ 
+     "*/**/*"
+  ],
+  "exclude":[ 
+     "node_modules",
+     "/buid"
+  ],
+  "compileOnSave":false
+}
