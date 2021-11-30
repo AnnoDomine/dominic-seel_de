@@ -26,4 +26,4 @@ yarn-error.log*
 Anleitung.txt
 mmm.sql
 *.exe
-/typescript/node_modules/
+/typescript/node_modules/.
