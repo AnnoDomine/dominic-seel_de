@@ -1,5 +1,14 @@
 {
+  "name": "dominic-seel MicroPage TypeScript",
+  "version": "0.0.1a",
+  "author": {
+    "name": "Dominic Seel",
+    "url": "https://www.dominic-seel.de",
+    "email": "admin@dominic-seel.de"
+  },
+  "readme": "README.md",
   "dependencies": {
+    "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
   }
 }
