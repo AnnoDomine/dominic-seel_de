@@ -11,6 +11,8 @@
         "target": "ES3"
     },
     "include": [
+        "*.ts",
+        "*/*.ts",
         "*/**/*.ts"
     ],
     "exclude": [
