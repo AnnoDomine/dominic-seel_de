@@ -1,4 +1,6 @@
 {
+  "name": "developers-deep-dive-typescript",
+  "version": "0.0.1",
   "dependencies": {
     "typescript": "^4.5.2"
   }
