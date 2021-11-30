@@ -2,8 +2,9 @@
 
 ## Build with
 
++ Visual Studio Code
++ JavaScript
 + NodeJS
-+ TypeScript 4.5.2
 
 ## Used Node-Modules
 
