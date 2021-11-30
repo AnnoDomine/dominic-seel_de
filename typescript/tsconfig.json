@@ -14,7 +14,7 @@
       "noImplicitAny":true,
       "noImplicitReturns":false,
       "noImplicitUseStrict":false,
-      "outDir":"buidee",
+      "outDir":"buide",
       "baseUrl":"",
       "listFiles":false,
       "noEmitHelpers":true                               
