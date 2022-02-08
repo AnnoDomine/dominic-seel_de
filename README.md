@@ -127,7 +127,7 @@ Build with create-react-app
 * [React-Router-Dom](https://github.com/remix-run/react-router/tree/main/packages/react-router-dom)
 
 * Only in dev-dependencie:
-* react concurrently
++ react concurrently
 
 * As documantation i use [JSDOC](https://jsdoc.app/)
 
