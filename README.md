@@ -126,10 +126,10 @@ Build with create-react-app
 * [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 * [React-Router-Dom](https://github.com/remix-run/react-router/tree/main/packages/react-router-dom)
 
-* Only in dev-dependencie:
-+ react concurrently
+Only in dev-dependencie:
+* react concurrently
 
-* As documantation i use [JSDOC](https://jsdoc.app/)
+As documantation i use [JSDoc 3](https://jsdoc.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
