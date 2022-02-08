@@ -63,6 +63,7 @@ Free README.md-Template from [Best-README-Template](https://github.com/othneildr
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="used-modules">Used Modules</a></li>
       </ul>
     </li>
     <li>
@@ -101,7 +102,9 @@ Hope the picture in my head getting real ;)
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Node.js](https://nodejs.org/)
-* [React.js & ReactDOM](https://reactjs.org/)
+* [React.js](https://reactjs.org/)
+
+Build with create-react-app
 
 <!--
 * [Next.js](https://nextjs.org/)
@@ -112,6 +115,21 @@ Hope the picture in my head getting real ;)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Used Modules -->
+
+## Used Modules
+
+* [THREE.js](https://threejs.org)
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+* [React-Router-Dom](https://github.com/remix-run/react-router/tree/main/packages/react-router-dom)
+
+* Only in dev-dependencie:
+* react concurrently
+
+* As documantation i use [JSDOC](https://jsdoc.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
